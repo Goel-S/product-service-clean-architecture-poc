@@ -116,8 +116,7 @@ GET /products
 
 ## 🧠 Why This POC Is Different
 - Architecture-first
-- Clean boundaries
-- Interview & resume ready
+- Clean boundaries  
 - Real-world extensible design
 
 ---
