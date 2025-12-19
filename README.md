@@ -1,7 +1,6 @@
 # Product Service – Clean Architecture POC
 
 ![GitHub stars](https://img.shields.io/github/stars/Goel-S/product-service-clean-architecture-poc)
-![GitHub license](https://img.shields.io/github/LICENSE/Goel-S/product-service-clean-architecture-poc)
 
 This repository is an **Architect-level Proof of Concept (POC)** demonstrating how to build a **Spring Boot microservice using Clean / Hexagonal Architecture (Ports & Adapters)** principles.
 
